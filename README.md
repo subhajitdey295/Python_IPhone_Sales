@@ -1,5 +1,7 @@
 # IPhone_Sales_Analysis_Using_Python
 
+Link: https://nbviewer.org/github/subhajitdey295/Python_IPhone_Sales/blob/main/IPhone%20Sales.ipynb
+
 Objective: 
 ✔ Top 10 apple IPhones India sales
 ✔ Highest rated IPhones on Flipkart based on Ratings
