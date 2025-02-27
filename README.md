@@ -1,5 +1,5 @@
 # IPhone_Sales_Analysis_Using_Python
-(Link: https://nbviewer.org/github/subhajitdey295/Python_IPhone_Sales/blob/main/IPhone%20Sales.ipynb)
+(Link: http://localhost:8888/notebooks/Apple%20IPhone%20Sales%20(Project%201).ipynb))
 
 Objective: 
 ✔ Top 10 apple IPhones sales in India
