@@ -1,7 +1,9 @@
 # IPhone_Sales_Analysis_Using_Python
 
 ✔ Objective: The primary objective of this analysis is to evaluate iPhone sales in India, determine the highest-rated iPhone models, and explore relationships between various sales factors using Python.
+
 ✔ Data Cleaning (Pandas and NumPy): Used Pandas for data manipulation, handling missing values, and structuring the dataset & Used NumPy for numerical computations to refine the dataset for analysis.
+
 ✔ Data Analysis:
    ➡ Top 10 apple Iphones sales in India are: APPLE iPhone 11 Pro Max (Midnight Green, 64 GB), APPLE iPhone 11 Pro Max (Space Grey, 64 GB), APPLE iPhone 11 Pro Max (Midnight Green, 256 GB),  
    APPLE iPhone 11 Pro Max (Gold, 64 GB), APPLE iPhone 11 Pro Max (Gold, 256 GB), APPLE iPhone 8 Plus (Gold, 64 GB), APPLE iPhone 12 (White, 128 GB), APPLE iPhone 12 Pro Max (Graphite, 128 
