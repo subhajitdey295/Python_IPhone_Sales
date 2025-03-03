@@ -25,6 +25,7 @@
    ![Screenshot (11)](https://github.com/subhajitdey295/Python_IPhone_Sales/assets/73297451/bbfa2d86-ed10-41e7-8e5d-bf117447c634)
 
 ✔ Data Visualiztion (Plotly Library): Using Bar Plot and Scatter Plot
+
 ✔ Conclusion: iPhone 11 Pro Max models dominate the top sales in India, iPhone 8 Plus (Gold, 64 GB) is the highest-rated and most reviewed model, There is a visible relationship between price, discounts, and 
   customer engagement in the form of ratings and reviews.
   
