@@ -1,4 +1,4 @@
-# IPhone_Sales_Analysis_Using_Python
+# IPhone Sales Analysis Using Python
 
 ✔ Objective: The primary objective of this analysis is to evaluate iPhone sales in India, determine the highest-rated iPhone models, and explore relationships between various sales factors using Python.
 
